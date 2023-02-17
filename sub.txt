@@ -1,1 +1,2 @@
-test
+vless://57fc8788-71cf-4891-90d5-cee49d5590b9@144.34.208.117:10068?flow=xtls-rprx-direct&encryption=none&security=xtls&type=tcp&headerType=none#145+ing+...
+trojan://jOqX27Oojv@107.172.102.217:10366#gao-trojan-test
